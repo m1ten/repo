@@ -2,7 +2,7 @@ Package: com.m1ten.hydr0x
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: m1ten
-Depends: firmware (>13.3.1), mobilesubstrate
+Depends: firmware (>13.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.m1ten.hydr0x.deb
 Size: 9858
