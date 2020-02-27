@@ -1,14 +1,14 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.m1ten.hydr0x
+Version: 1.0.0-1
+Section: Themes
+Maintainer: m1ten
+Depends: firmware (>13.3.1)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.m1ten.hydr0x.deb
+Size: 9858
+MD5sum: d6b7038ef551a2dd971f0b983821b2c6
+Description: idk
+Name: hydr0x
+Author: m1ten
+Depiction: https://m1ten.github.io/repo/depictions/?p=com.m1ten.hydr0x
 
