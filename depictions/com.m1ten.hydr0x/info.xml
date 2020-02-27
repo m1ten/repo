@@ -9,7 +9,7 @@
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>com.anemonetheming.anemone | com.spark.snowboard</dependencies>
 	<descriptionlist>
 		<description>idk</description>
 	</descriptionlist>
