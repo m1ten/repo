@@ -1,12 +1,12 @@
 Package: com.m1ten.hydr0x
-Version: 1.0.0-1
-Section: Tweaks
+Version: 1.0.0-2
+Section: Themes
 Maintainer: m1ten
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.m1ten.hydr0x.deb
-Size: 9858
-MD5sum: d6b7038ef551a2dd971f0b983821b2c6
+Size: 50510
+MD5sum: d73ae9e508ad889bdd34768d95b95073
 Description: idk
 Name: hydr0x
 Author: m1ten
