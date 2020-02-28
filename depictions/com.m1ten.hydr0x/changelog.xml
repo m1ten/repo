@@ -3,7 +3,8 @@
 		<version>1.0.0-2</version>
 		<change>Added messages and safari icon</change>
 	</changes>
+	<changes>
 		<version>1.0.0-1</version>
 		<change>Initial Release</change>
-	<changes>
+	</changes>
 </changelog>
