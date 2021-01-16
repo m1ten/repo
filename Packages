@@ -1,14 +1,14 @@
-Package: com.m1ten.hydr0x
+Package: com.miten.hydr0x
 Version: 1.0.0-2
 Section: Themes
-Maintainer: m1ten
+Maintainer: miten
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.m1ten.hydr0x.deb
+Filename: ./debs/com.miten.hydr0x.deb
 Size: 50510
 MD5sum: d73ae9e508ad889bdd34768d95b95073
 Description: idk
 Name: hydr0x
 Author: m1ten
-Depiction: https://m1ten.github.io/repo/depictions/?p=com.m1ten.hydr0x
+Depiction: https://m1ten.me/repo/depictions/?p=com.miten.hydr0x
 
